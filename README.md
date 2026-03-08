@@ -57,4 +57,5 @@ Open the .twbx file to access the 10 unique visualizations, including Area Chart
 Access the finalized, high-performance dashboard via the Tableau Public link provided in the documentation.
 
 7. Performance Check
+   
 Review the Utilization of Filters (Context and Extract) used to maintain responsiveness across the dataset.
